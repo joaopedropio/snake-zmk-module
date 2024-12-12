@@ -1,0 +1,19 @@
+config SNAKE_USE_DEFAULT_COLORSCHEME
+    bool "Convert layer names to all caps"
+    default y
+
+config SNAKE_COLOR_1
+    int "Color 1"
+    default 50
+
+config SNAKE_COLOR_1
+    int "Color 1"
+    default 50
+
+config SNAKE_COLOR_1
+    int "Color 1"
+    default 50
+    
+config SNAKE_COLOR_1
+    int "Color 1"
+    default 50
